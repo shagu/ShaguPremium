@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cffffffffClassic-Wow|cffaaaaaa.org
+## Author: Eric (Shagu) Mauser, 2016
+## Notes: Ermöglicht Zugriff auf Account- und Premium-Einstellungen. Speichert seperat für jeden Charakter und stellt diese wenn gewünscht automatisch bei jedem Login wieder her.
+## Version: 0.1
+## SavedVariablesPerCharacter: ClassicWowSettings ClassicWowMinimapPosition
+classicwow.lua
+minimap.lua
+password.lua
+
