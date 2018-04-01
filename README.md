@@ -1,6 +1,6 @@
-# Classic-Wow.org
+# ShaguPremium
 
-The project "Classic-WoW.org" is a small CMaNGOS based but closed source, german PvE server with lots of custom features, that calls itself blizzlike.
+This addon, formerly known as "Classic-Wow.org" has been renamed to "ShaguPremium" in order to avoid any conflicts with the project for which it was made for. The project "Classic-Wow.org" is a small CMaNGOS based but closed source, german PvE server with lots of custom features, that calls itself blizzlike.
 
 * 2x Rates (up to 4x rates on events)
 * 2x Rates on professions
@@ -19,10 +19,10 @@ The project "Classic-WoW.org" is a small CMaNGOS based but closed source, german
 However, most of these features can only be used while having an active premium account (~5$/Month). As I had the impression that most of the players there have such a premium membership, I decided to write an addon for them to make it easier to switch experience rates and such. Also because I got a free premium membership for providing this addon. :P
 
 ## Installation
-1. Download **[Latest Version](https://github.com/shagu/Classic-Wow.org/archive/master.zip)**
+1. Download **[Latest Version](https://github.com/shagu/ShaguPremium/archive/master.zip)**
 2. Unpack the Zip file
-3. Rename the folder "Classic-Wow.org-master" to "Classic-Wow.org"
-4. Copy "Classic-Wow.org" into Wow-Directory\Interface\AddOns
+3. Rename the folder "ShaguPremium-master" to "ShaguPremium"
+4. Copy "ShaguPremium" into Wow-Directory\Interface\AddOns
 5. Restart Wow
 
 ## Features
