@@ -81,7 +81,7 @@ ClassicWow.title:SetWidth(400);
 ClassicWow.title:SetHeight(100);
 ClassicWow.title.tex = ClassicWow.title:CreateTexture("LOW");
 ClassicWow.title.tex:SetAllPoints();
-ClassicWow.title.tex:SetTexture("Interface\\AddOns\\Classic-Wow.org\\img\\bg");
+ClassicWow.title.tex:SetTexture("Interface\\AddOns\\ShaguPremium\\img\\bg");
 
 ClassicWow.title.text = ClassicWow.title:CreateFontString("Status", "LOW", "GameFontNormal")
 ClassicWow.title.text:SetFontObject(GameFontWhite)
@@ -291,7 +291,7 @@ ClassicWow.bottom:SetWidth(400);
 ClassicWow.bottom:SetHeight(50);
 ClassicWow.bottom.tex = ClassicWow.bottom:CreateTexture("LOW");
 ClassicWow.bottom.tex:SetAllPoints();
-ClassicWow.bottom.tex:SetTexture("Interface\\AddOns\\Classic-Wow.org\\img\\bgb");
+ClassicWow.bottom.tex:SetTexture("Interface\\AddOns\\ShaguPremium\\img\\bgb");
 
 ClassicWow.author = ClassicWow.bottom:CreateFontString("Status", "LOW", "GameFontNormal")
 ClassicWow.author:SetFontObject(GameFontWhite)
