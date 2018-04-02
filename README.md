@@ -35,8 +35,8 @@ The custom features that can be changed with this addon are the following:
 * Restore per-character settings on login
 
 ## Screenshots
-![gui](https://i.imgur.com/zZIw2DS.png)
+![gui](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguPremium/gui.png)
 
-![minimap](https://i.imgur.com/vjWr9bu.png)
+![minimap](https://raw.githubusercontent.com/shagu/ShaguAddons/master/_img/ShaguPremium/minimap.png)
 
 
